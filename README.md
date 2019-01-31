@@ -1,5 +1,5 @@
 # Base 6 Cipher
-A custom cipher I designed using base 6 in the summer of 2017. Following are some examples. To see how it works, look at the code.
+A custom cipher I designed using base 6 in the summer of 2017. Following are some examples. To see how it works, look at the code. It was cracked by user39583 on Puzzling.SE (here)[https://puzzling.stackexchange.com/questions/53689/help-what-is-sistek-saying].
 
 John 3:16:
 ```
